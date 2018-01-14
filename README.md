@@ -7,7 +7,7 @@ https://goo.gl/jGdxbE
 Test result
 ----
 
-These are the last 3 results after fine-tuned with 25 Epoch
+These are the last 3 results after retrain with 10 Epoch and 25 of fine-tuning
 
 Epoch 23/25
 250/250 [==============================] - 63s - loss: 0.1122 - acc: 0.9534 - val_loss: 0.2114 - val_acc: 0.9330
