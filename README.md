@@ -19,4 +19,4 @@ Epoch 25/25
 250/250 [==============================] - 62s - loss: 0.1120 - acc: 0.9589 - val_loss: 0.2166 - val_acc: 0.9235
 
 Preview all the test:
-https://goo.gl/1C1cmp
+https://goo.gl/afrvDG
