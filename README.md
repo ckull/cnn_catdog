@@ -1,4 +1,4 @@
-# cd_classification
+# CNN_CatDog
 Cat And Dog classification using interception v3 model which based on convolutional neural network. This model.py is implemented by Keras and can be retrain with a new datasets (not just cat and dog).
 
 Datasets:
